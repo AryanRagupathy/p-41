@@ -52,6 +52,6 @@ function draw() {
 
 
     if (frameCount%0.5 === 0) {
-      particles.push(new Particle(random(0,480),221,5));
+      particles.push(new Particle(random(0,480),222.5,5));
     } 
 }
